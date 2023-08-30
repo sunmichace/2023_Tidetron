@@ -1,6 +1,7 @@
-Materials and methods
-Analysis of collagen family expression and function
-Transcriptomic and proteomic analysis of human tissue cells
+# Materials and methods
+
+## Analysis of collagen family expression and function
+### ***Transcriptomic and proteomic analysis of human tissue cells***
 Healthy human tissue RNA-seq and single cell RNA-seq was downloaded from The Human Protein Atlas, Tissue-specific Gene Expression and Regulation, Genotype-Tissue Expression Project, Illumina Body Map, FAMTON5, ENCODE and The European Bioinformatics Institute and NCBI GEO database (Table S1). RNA-seq data is processed according to the method from previous report (Zoabi and Shomron, 2021). RNA and protein expression atlas was analyzed and demonstrated by R studio.
 Tertiary structure prediction by AlphaFold2 and amino acid mutation analysis
 Protein tertiary structure was predicted using AlphaFold2 (Bkunyun Platform, https://www.bkunyun.com/index.html?source=360E8&other=). Those structures with the highest score were picked for the next analysis, and the relevant PDB files were compared by UCSF Chimera. The identified DNA mutation sites were verified by sanger sequencing and corresponding amino acid mutants were labelled within the structure. The re-constructed structure was also predicted by AlphaFold2 and the relevant amino acid side chain changes were exhibited by UCSF Chimera. Disorder regions and conversation were both predicted by IUPred3.
