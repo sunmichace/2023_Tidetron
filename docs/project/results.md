@@ -14,7 +14,7 @@ As a result, we finally classify the collagen family and elastin, among which a 
 \
 \
 \
-\  
+\
 #### Tertiary structure analysis of the primary collagens
 Collagen I and III are commonly used recombinant collagens in the market for their high expression in human body (Sorushanova et al., 2019). Collagen I is a trimer protein consisting of two A1 chains and one A2 chain, and its tertiary structure is mainly dependent on the disulfide bond in the C-terminal domain and the hydrogen bond and salt bridge in the triple-helical region. According to the AlphaFold2 model analysis, the triple-helical region of CO1A1 in collagen I was identified to be flexible, which could not fold into a fixed structure. The similar phenomenon is also observed in those highly expressed collagens, such as III, IV, VI, etc.. 
 Intrinsically disordered regions (IDR) of proteins often lead to protein aggregation and liquid-liquid phase separation, enabling to strengthen the assembly of collagen trimers (Brocca et al., 2020). We used IUPred3 to predict the IDR in collagens (Erdos et al., 2021), and identified that the triple-helical regions are the dominant IDR with highly species-conserved in the all collagens. Although the expression pattern of elastin is similar to collagen, its structure is quite different from collagen (low proline content and short IDR sequence), which may be the reason why elastin cannot assemble into trimeric fibers.
