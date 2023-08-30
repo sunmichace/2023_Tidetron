@@ -11,10 +11,10 @@ When ulteriorly immunohistochemical data to map the expression profile of collag
 Previously, collagen proteins were mostly reported to be oxidatively degraded with age, eventually leading to collagen fibers loss (Avila Rodriguez et al., 2018; Shoulders and Raines, 2009). However, there are no relevant studies on the effect at RNA level. In current work, we evaluated the RNA expression of collagen family at different stages in human development, and found that with the increase of age, the expression of most collagen RNA significantly decreased, probably due to reduced transcription levels and RNA stability. Moreover, analysis of the expression correlation between skin care function-related genes and the collagen family in epidermal fibroblasts also demonstrated that the expression of collagen family had a significant positive correlation with the expression of epidermal cell proliferation and growth factor genes, indicating that collagens play important roles in activity of epidermal cell. 
   
 As a result, we finally classify the collagen family and elastin, among which a noteworthy cluster containing collagen I, II, III, IV, VI, XI, XV, XVI, XVI, XVIII and elastin (named “primary collagens” in the following) have similar and relatively high expression characteristics and are considered to be targets for our downstream analysis. 
-   
-
-
-   
+   \
+   \
+   \
+   \  
 #### Tertiary structure analysis of the primary collagens
 Collagen I and III are commonly used recombinant collagens in the market for their high expression in human body (Sorushanova et al., 2019). Collagen I is a trimer protein consisting of two A1 chains and one A2 chain, and its tertiary structure is mainly dependent on the disulfide bond in the C-terminal domain and the hydrogen bond and salt bridge in the triple-helical region. According to the AlphaFold2 model analysis, the triple-helical region of CO1A1 in collagen I was identified to be flexible, which could not fold into a fixed structure. The similar phenomenon is also observed in those highly expressed collagens, such as III, IV, VI, etc.. 
 Intrinsically disordered regions (IDR) of proteins often lead to protein aggregation and liquid-liquid phase separation, enabling to strengthen the assembly of collagen trimers (Brocca et al., 2020). We used IUPred3 to predict the IDR in collagens (Erdos et al., 2021), and identified that the triple-helical regions are the dominant IDR with highly species-conserved in the all collagens. Although the expression pattern of elastin is similar to collagen, its structure is quite different from collagen (low proline content and short IDR sequence), which may be the reason why elastin cannot assemble into trimeric fibers.
