@@ -12,6 +12,7 @@ Previously, collagen proteins were mostly reported to be oxidatively degraded wi
 
 As a result, we finally classify the collagen family and elastin, among which a noteworthy cluster containing collagen I, II, III, IV, VI, XI, XV, XVI, XVI, XVIII and elastin (named “primary collagens” in the following) have similar and relatively high expression characteristics and are considered to be targets for our downstream analysis.
  \
+ \
 ### Tertiary structure analysis of the primary collagens
 
 Collagen I and III are commonly used recombinant collagens in the market for their high expression in human body (Sorushanova et al., 2019). Collagen I is a trimer protein consisting of two A1 chains and one A2 chain, and its tertiary structure is mainly dependent on the disulfide bond in the C-terminal domain and the hydrogen bond and salt bridge in the triple-helical region. According to the AlphaFold2 model analysis, the triple-helical region of CO1A1 in collagen I was identified to be flexible, which could not fold into a fixed structure. The similar phenomenon is also observed in those highly expressed collagens, such as III, IV, VI, etc.. 
